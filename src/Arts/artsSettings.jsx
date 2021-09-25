@@ -15,17 +15,17 @@ export const artsData = [
   },
   {
     id: 2,
-    painter: 'Leonardo Davinci',
+    painter: 'Miguel Angel',
     image: art2,
   },
   {
     id: 3,
-    painter: 'Leonardo Davinci',
+    painter: 'Rafael Santini',
     image: art3,
   },
   {
     id: 4,
-    painter: 'Leonardo Davinci',
+    painter: 'Donatello Scarlatti',
     image: art4,
   },
   {
@@ -35,17 +35,17 @@ export const artsData = [
   },
   {
     id: 6,
-    painter: 'Leonardo Davinci',
+    painter: 'Miguel Angel',
     image: art6,
   },
   {
     id: 7,
-    painter: 'Leonardo Davinci',
+    painter: 'Rafael Santini',
     image: art7,
   },
   {
     id: 8,
-    painter: 'Leonardo Davinci',
+    painter: 'Donatello Scarlatti',
     image: art8,
   },
 ];
